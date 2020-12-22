@@ -3,7 +3,15 @@
         {
             "id": 1205156,
             "status_email": "validated",
-            "status_domain": "available"
+            "status_domain": "available",
+            "format_valid": true,
+            "mx_found": true,
+            "smtp_check": true,
+            "catch_all": false,
+            "role": true,
+            "disposable": false,
+            "free": false,
+            "score": 0.8
         }
     ]
 }
