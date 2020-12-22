@@ -1,14 +1,9 @@
 {
-  "posssts": {[
-    "id": 1205156,
-    "status_email": "validated",
-    "status_domain": "available"
-}],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "posssts": [
+        {
+            "id": 1205156,
+            "status_email": "validated",
+            "status_domain": "available"
+        }
+    ]
 }
