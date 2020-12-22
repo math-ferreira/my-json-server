@@ -1,10 +1,7 @@
 {
-  "posts": [
+  "check-email": [
     {
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
