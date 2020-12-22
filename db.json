@@ -2,6 +2,6 @@
   "check-email": [
     { "id": 1, "email": "fulano@gmail.com", "domain": "gmail.com" },
     { "id": 2, "email": "cicrano@hotmail.com.br", "domain": "hotmail.com.br" },
-    { "id": 3, "email": "beltrano@sacs.sp.gov.br", "domain": "sacs.sp.gov.br" },
+    { "id": 3, "email": "beltrano@sacs.sp.gov.br", "domain": "sacs.sp.gov.br" }
   ]
 }
